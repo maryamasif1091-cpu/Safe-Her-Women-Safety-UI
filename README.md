@@ -2,7 +2,7 @@
 
 A modern and responsive women safety web interface designed to provide quick access to emergency features such as SOS alerts, location sharing, fake calls, and trusted contacts. This project focuses on creating an intuitive and user-friendly safety dashboard using HTML, CSS, and JavaScript.
 
-## ✨ Features
+##  Features
 
 *  Interactive SOS button with countdown modal
 *  Location sharing using Geolocation API
@@ -13,7 +13,7 @@ A modern and responsive women safety web interface designed to provide quick acc
 *  Mobile-first responsive design
 *  Smooth animations and visual feedback
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * HTML5
 * CSS3
@@ -21,7 +21,7 @@ A modern and responsive women safety web interface designed to provide quick acc
 * Font Awesome
 * Google Fonts (Inter)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 SafeHer/
@@ -32,7 +32,7 @@ SafeHer/
 └── README.md
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Clone the repository
 https://github.com/maryamasif1091-cpu/Safe-Her-Women-Safety-UI.git
@@ -48,7 +48,7 @@ cd safeher
 
 3. Open `index.html` in your browser
 
-## 📸 Preview
+##  Preview
 
 The interface includes:
 
